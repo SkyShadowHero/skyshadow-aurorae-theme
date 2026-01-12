@@ -18,5 +18,5 @@ Fork from [Win11OS-kde](https://github.com/yeyushengfan258/Win11OS-kde)
 mkdir -p ~/.local/share/aurorae/themes/SkyShadow/
 git clone https://github.com/SkyShadowHero/skyshadow-aurorae-theme.git
 cd skyshadow-aurorae-theme
-cp -r $(ls -A | grep -Ev '^(\.git|views|install\.sh\.md)$') ~/.local/share/aurorae/themes/SkyShadow/ 2>/dev/null && echo "Done"
+cp -r $(ls -A | grep -Ev '^(\.git|views|README\.md)$') ~/.local/share/aurorae/themes/SkyShadow/ 2>/dev/null && echo "Done"
 ```

@@ -12,7 +12,7 @@ BorderRight=0
 BorderBottom=0
 
 TitleEdgeTop=0
-TitleEdgeBottom=-1
+TitleEdgeBottom=0
 TitleEdgeLeft=4
 TitleEdgeRight=-1
 TitleBorderLeft=8

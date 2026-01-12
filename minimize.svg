@@ -77,17 +77,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1411"
+     inkscape:window-width="1707"
+     inkscape:window-height="987"
      id="namedview22"
      showgrid="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="58.203727"
-     inkscape:cy="27.046835"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="4.6250002"
+     inkscape:cy="52.000002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4306"
+     inkscape:current-layer="use1630"
      inkscape:document-rotation="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
@@ -246,7 +246,7 @@
          id="rect17443"
          style="opacity:0.003;fill:#000000;fill-opacity:1;stroke-width:0.220007" />
       <rect
-         style="color:#232629;fill:#000000;fill-opacity:1"
+         style="color:#232629;fill:#009ae7;fill-opacity:1"
          id="rect17445"
          width="2.6458333"
          height="0.26458332"
@@ -269,7 +269,7 @@
          height="8.4666662"
          width="10.054167"
          id="rect19001"
-         style="color:#232629;opacity:0.25;fill:#000000;fill-opacity:1"
+         style="color:#232629;opacity:0.2;fill:#000000;fill-opacity:1"
          class="ColorScheme-Text" />
     </g>
     <g
@@ -283,7 +283,7 @@
          x="27.516666"
          y="-25.135416" />
       <rect
-         style="color:#232629;fill:#000000;fill-opacity:1"
+         style="color:#232629;fill:#0097e2;fill-opacity:1"
          id="rect19007"
          width="2.6458333"
          height="0.26458332"

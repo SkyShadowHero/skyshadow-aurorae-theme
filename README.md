@@ -20,3 +20,6 @@ git clone https://github.com/SkyShadowHero/skyshadow-aurorae-theme.git
 cd skyshadow-aurorae-theme
 cp -r $(ls -A | grep -Ev '^(\.git|views|README\.md)$') ~/.local/share/aurorae/themes/SkyShadow/ 2>/dev/null && echo "Done"
 ```
+
+## 协议
+本项目基于 [Win11OS-kde](https://github.com/yeyushengfan258/Win11OS-kde)修改，原项目遵循 GPL v3 协议。本项目同样遵循 GNU General Public License v3.0 协议发布。
